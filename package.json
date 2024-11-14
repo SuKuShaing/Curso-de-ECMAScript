@@ -1,0 +1,16 @@
+{
+  "name": "curso-de-ecmascript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Js",
+    "javascript",
+    "ecmascript"
+  ],
+  "author": "Sebastian Sanhueza <sebastian.sanhueza.t@usach.cl>",
+  "license": "MIT",
+  "description": ""
+}
