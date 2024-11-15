@@ -28,3 +28,11 @@ const fruits = () => {
 }
 
 fruits();
+
+function newUser(user, age, country) {
+	return {
+		user,
+		age,
+		country,
+	};
+}
