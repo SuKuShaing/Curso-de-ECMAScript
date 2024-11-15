@@ -12,6 +12,7 @@ newUser('David', 25, 'Colombia'); // David 25 Colombia
 
 
 // ES6
+// esta es la forma nueva de asignar valores por defecto a los parámetros de una función
 function newAdmin(name = 'Seba', age = 31, country = 'Chile') {
     console.log(name, age, country);
 };
