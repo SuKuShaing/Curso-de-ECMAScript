@@ -12,5 +12,6 @@
   ],
   "author": "Sebastian Sanhueza <sebastian.sanhueza.t@usach.cl>",
   "license": "MIT",
+  "type": "module",
   "description": ""
 }
