@@ -8,5 +8,5 @@ Map es una estructura de datos que almacena pares clave-valor y mantiene el orde
 Ofrece métodos específicos como set, get, has, delete, y clear.
 */
 const entries = [["name", "oscar"], ["age", 32]];
-console.log(entries);
-console.log(Object.fromEntries(entries));
+console.log(entries); // [ [ 'name', 'oscar' ], [ 'age', 32 ] ] 
+console.log(Object.fromEntries(entries)); // { name: 'oscar', age: 32 }
