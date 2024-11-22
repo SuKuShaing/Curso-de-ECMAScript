@@ -2,8 +2,8 @@
 
 const button = document.getElementById("btn");
 
-button.addEventListener("click", async () => {
-	const module = await import("./module.js");
+button.addEventListener("click", async () => { // debe ser una función asíncrona
+	const module = await import("./module.js"); // import dinámico y asincrono
 	console.log(module);
     module.hello();
 });
