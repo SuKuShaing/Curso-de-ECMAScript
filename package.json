@@ -13,5 +13,8 @@
   "author": "Sebastian Sanhueza <sebastian.sanhueza.t@usach.cl>",
   "license": "MIT",
   "type": "module",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
 }
